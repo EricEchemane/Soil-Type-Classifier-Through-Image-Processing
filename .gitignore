@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 new_image_dataset
 backup_images
+
+node_modules
+.env
+.env.*
