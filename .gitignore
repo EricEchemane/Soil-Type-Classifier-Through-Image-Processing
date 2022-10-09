@@ -127,8 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-new_image_dataset
-backup_images
+src/dataset.rar
+src/dataset
+src/old_dataset
 
 node_modules
 .env
